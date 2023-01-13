@@ -12,4 +12,4 @@ Hi there, my name is Paul
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
-[linkedin]: linkedin.com/in/paul-cabrera-001052205
+linkedin.com/in/paul-cabrera-001052205
