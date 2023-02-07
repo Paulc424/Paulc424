@@ -1,4 +1,4 @@
-<h1>Hi, I'm Paul, an <a href=https://www.linkedin.com/in/paul-cabrera-001052205/> Aspiring Cybersecurity Professional💻
+<h1>Hi! I'm Paul, an <a href=https://www.linkedin.com/in/paul-cabrera-001052205/> Aspiring Information Technology Professional💻
 
 
  <h2>👨‍💻 Information Technology Projects:</h2>
